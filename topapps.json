@@ -1,0 +1,777 @@
+{
+  "apps": [
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.itemstudio.castro",
+      "thumb": "http://i.imgur.com/cPg0eVHl.jpg",
+      "name": "Castro",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone",
+      "thumb": "http://i.imgur.com/cNvwaDe.jpg",
+      "name": "Phonograph",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.samruston.twitter",
+      "thumb": "http://i.imgur.com/7A2Fbmgl.png",
+      "name": "Flamingo for Twitter (Beta)",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.robinhood.android&hl=en",
+      "thumb": "http://i.imgur.com/WSZJCsK.png",
+      "name": "Robinhood",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.slaughter.look.of.disapproval",
+      "thumb": "http://i.imgur.com/vFJ5AUUl.png",
+      "name": "Look of Disapproval",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.gombosdev.ampere",
+      "thumb": "http://i.imgur.com/UBzsRQyl.png",
+      "name": "Ampere",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.notabasement.fuzel.app",
+      "thumb": "http://i.imgur.com/oFMnrECl.png",
+      "name": "Fuzel Collage",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=org.nixgame.bubblelevel",
+      "thumb": "http://i.imgur.com/pnzCiqzl.png",
+      "name": "Bubble Level, Spirit Level",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=eu.thedarken.sdm",
+      "thumb": "http://i.imgur.com/pKVVj6Ll.png",
+      "name": "SD Maid - System Cleaning Tool",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.codium.hydrocoach",
+      "thumb": "http://i.imgur.com/JHFjEJWl.png",
+      "name": "Hydro Coach - drink water",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.underwood.calendar_beta",
+      "thumb": "http://i.imgur.com/Jxl0kYVl.png",
+      "name": "Today Calendar 2016",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=de.orrs.deliveries&hl=en",
+      "thumb": "http://i.imgur.com/PTy1lSPl.png",
+      "name": "Deliveries Package Tracker",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.nianticproject.scout",
+      "thumb": "http://i.imgur.com/jWBONjPl.png",
+      "name": "Field Trip",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=free.reddit.news",
+      "thumb": "http://i.imgur.com/d4bcTYal.png",
+      "name": "Relay for reddit",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit",
+      "thumb": "http://i.imgur.com/twaGBw6l.png",
+      "name": "Boost for reddit",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.levelup.palabre",
+      "thumb": "http://i.imgur.com/Esvcz1nl.png",
+      "name": "Palabre Feedly RSS",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=mathieumaree.rippple",
+      "thumb": "http://i.imgur.com/n1tWFxZl.png",
+      "name": "Rippple - The Dribbble app",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=net.ebt.appswitch",
+      "thumb": "http://i.imgur.com/0JlWbJXl.png",
+      "name": "App Swap Drawer - T9 Search",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.emberify.instant",
+      "thumb": "http://i.imgur.com/uhVRyGRl.png",
+      "name": "Instant - Quantified Self",
+      "price": "FREE"
+    },
+
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.nis.app",
+      "thumb": "http://i.imgur.com/P3WtD9pl.png",
+      "name": "Inshorts - News in 60 words",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.lastpass.lpandroid",
+      "thumb": "http://i.imgur.com/gRRsrGAl.png",
+      "name": "LastPass Password Manager",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.safeincloud",
+      "thumb": "http://i.imgur.com/K3DTZeKl.png",
+      "name": "Password Manager SafeInCloud™",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.franco.focus",
+      "thumb": "http://i.imgur.com/HubGAfsl.png",
+      "name": "Focus - Picture Gallery",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.ryan.brooks.sevenweeks.app",
+      "thumb": "http://i.imgur.com/HPA0jHQl.png",
+      "name": "7 Weeks-Habit & Goal Tracker",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.rstudioz.habits",
+      "thumb": "http://i.imgur.com/ldzMc3rl.png",
+      "name": "Rewire - Habit & Goal Tracker",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=de.stocard.stocard",
+      "thumb": "http://i.imgur.com/fFAvu0al.png",
+      "name": "Stocard - Rewards Cards Wallet",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.hybrid.intervaltimer",
+      "thumb": "http://i.imgur.com/Qaw0Yjil.png",
+      "name": "Interval Timer - HIIT Tabata",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=net.doo.snap",
+      "thumb": "http://i.imgur.com/8aBtA6Sl.png",
+      "name": "Scanbot-PDF Document Scanner",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3★",
+      "url": "https://play.google.com/store/apps/details?id=com.mowmo.plastexo",
+      "thumb": "http://i.imgur.com/HvtE79tl.png",
+      "name": "Plastexo - Wallpaper",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5★",
+      "url": "https://play.google.com/store/apps/details?id=de.stocard.stocard",
+      "thumb": "http://i.imgur.com/RHcPh09l.png",
+      "name": "Stocard - Rewards Cards Wallet",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.weebly.android",
+      "thumb": "http://i.imgur.com/llVm1Tel.png",
+      "name": "Weebly-Create a Free Website",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.todoist",
+      "thumb": "http://i.imgur.com/DF4ELnZl.png",
+      "name": "Todoist: To-Do List",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.devhd.feedly",
+      "thumb": "http://i.imgur.com/yw4tH38l.png",
+      "name": "feedly:your work newsfeed",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.flyersoft.moonreader",
+      "thumb": "http://i.imgur.com/QtGG4CWl.jpg",
+      "name": "Moon+ Reader",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.joelapenna.foursquared",
+      "thumb": "http://i.imgur.com/aS7SvBel.png",
+      "name": "Foursquare-Best City Guide",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.nam.fbwrapper",
+      "thumb": "http://i.imgur.com/EK2jAZml.png",
+      "name": "Metal for Facebook & Twitter",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=eu.pinpong.equalizer",
+      "thumb": "http://i.imgur.com/Vjmqj2Ll.png",
+      "name": "Equalizer",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.hippotech.materialislands",
+      "thumb": "http://i.imgur.com/fosLpsAl.png++",
+      "name": "Material Islands",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.flayvr.doctor",
+      "thumb": "http://i.imgur.com/16aS8iel.png",
+      "name": "Gallery Doctor - Photo Cleaner",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.northpark.drinkwater",
+      "thumb": "http://i.imgur.com/Bwi7fotl.png",
+      "name": "Water Drink Reminder",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.threeeplusplus.karkoona",
+      "thumb": "http://i.imgur.com/SMqH8Tol.png",
+      "name": "Karkoona",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.virblue.mystudylife",
+      "thumb": "http://i.imgur.com/D5gLWwRl.png",
+      "name": "My Study Life",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.moviematelite",
+      "thumb": "http://i.imgur.com/V5YZaNJl.png",
+      "name": "Movie Mate",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar",
+      "thumb": "http://i.imgur.com/5kPLxh4l.png",
+      "name": "Pulsar Music Player",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.9 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.obviousengine.seene.android.core",
+      "thumb": "http://i.imgur.com/FKIsMLQl.png",
+      "name": "Seene",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.code44.finance",
+      "thumb": "http://i.imgur.com/xkkXC4Ql.png",
+      "name": "Financius - Expense Manager",
+      "price": "FREE"
+    },
+  
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.medium.reader",
+      "thumb": "http://i.imgur.com/kIgxBrml.png",
+      "name": "Medium",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.gmail.jmartindev.timetune",
+      "thumb": "http://i.imgur.com/EkL6Qull.png",
+      "name": "TimeTune:Do More In Less Time",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.er.mo.apps.mypasswords",
+      "thumb": "http://i.imgur.com/59JCudtl.png",
+      "name": "My Passwords",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=io.enpass.app",
+      "thumb": "http://i.imgur.com/ts7v4Ngl.png",
+      "name": "Enpass Password Manager",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.cgollner.unclouded",
+      "thumb": "http://i.imgur.com/OCTsjmhl.png",
+      "name": "Unclouded - Cloud Manager",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=net.tsapps.appsales",
+      "thumb": "http://i.imgur.com/1I9yNazl.png",
+      "name": "AppSales. Best Apps on Sale",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=pl.drobek.krzysztof.wemple",
+      "thumb": "http://i.imgur.com/aD7KMMcl.png",
+      "name": "Wemple Weather",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.redbull.alert",
+      "thumb": "http://i.imgur.com/LA0IUFRl.png",
+      "name": "Red Bull Alert: Alarm clock",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.imdevgary.cinnamon",
+      "thumb": "http://i.imgur.com/wIp2TgMl.png",
+      "name": "Cinnamon Grocery Shopping List",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.imagine.free",
+      "thumb": "http://i.imgur.com/tZCqNctl.png",
+      "name": "Imagine for Instagram Free",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.samruston.flip",
+      "thumb": "http://i.imgur.com/fJ8wqibl.png",
+      "name": "Flip Currency Converter",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.splendapps.splendo",
+      "thumb": "http://i.imgur.com/LlUoLdZl.png",
+      "name": "To Do List",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.whereismycar",
+      "thumb": "http://i.imgur.com/GDd9dGcl.png",
+      "name": "Parkify - Where is my car?",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=ooo.oxo.apps.materialize",
+      "thumb": "http://i.imgur.com/gAH5txWl.png",
+      "name": "Materialize",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=me.round.app",
+      "thumb": "http://i.imgur.com/SuUutNYl.png",
+      "name": "Roundme",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.nego.flite",
+      "thumb": "http://i.imgur.com/q84m3mRl.png",
+      "name": "Focus Notify",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.upskew.encode",
+      "thumb": "http://i.imgur.com/wgclIjvl.png",
+      "name": "Encode: Learn to Code",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=jp.keita.nakamura.timetable",
+      "thumb": "http://i.imgur.com/xN3QizHl.png",
+      "name": "Classnote : Simple Timetable",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=it.onecalculator",
+      "thumb": "http://i.imgur.com/TxiEIhPl.png",
+      "name": "One Calculator",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.appsfromthelocker.recipes",
+      "thumb": "http://i.imgur.com/PKe9INal.png",
+      "name": "Tasty Recipes!",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.Slack",
+      "thumb": "http://i.imgur.com/nmgCLa9.jpg",
+      "name": "Slack",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=co.thefabulous.app",
+      "thumb": "http://i.imgur.com/ErlvIhx.png",
+      "name": "Fabulous - Motivate Me!",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.samruston.weather",
+      "thumb": "http://i.imgur.com/li3Yewu.jpg",
+      "name": "Weather Timeline - Forecast",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.revodroid.notes.notes",
+      "thumb": "http://i.imgur.com/t4AfFEs.jpg",
+      "name": "Material Notes",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.dinosaur.cwfei.materialnotes",
+      "thumb": "http://i.imgur.com/3PEwmTR.jpg",
+      "name": "Material Notes:Colorful Notes",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.touchtype.swiftkey",
+      "thumb": "http://i.imgur.com/CZZRf8I.jpg",
+      "name": "Swiftkey Keyboard",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.bhphoto",
+      "thumb": "http://i.imgur.com/ntPL5S9.png",
+      "name": "B&H Photo Video Pro Audio",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.nytimes.android",
+      "thumb": "http://i.imgur.com/nRltxh9.jpg",
+      "name": "NYTimes - Latest News",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.keep",
+      "thumb": "http://i.imgur.com/0a83M09.png",
+      "name": "Google Keep",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro",
+      "thumb": "http://i.imgur.com/2y7DxgP.png",
+      "name": "Pocket",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts",
+      "thumb": "http://i.imgur.com/3uwXEOS.jpg",
+      "name": "Pocketcasts",
+      "price": "PAID"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.tumblr",
+      "thumb": "http://i.imgur.com/6IhDFJ9.png",
+      "name": "Tumblr",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.bleyl.recurrence",
+      "thumb": "http://i.imgur.com/9IaLGtxl.png",
+      "name": "Recurrence",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.buzzfeed.android",
+      "thumb": "http://i.imgur.com/Iwn8osq.png",
+      "name": "Buzzfeed",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.underwood.monospace",
+      "thumb": "http://i.imgur.com/iPEZCzv.png",
+      "name": "Monospace",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.timeanddate.countdown",
+      "thumb": "http://i.imgur.com/QspinLV.png",
+      "name": "Countdown by timeanddate ",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1",
+      "url": "https://play.google.com/store/apps/details?id=com.circle.android",
+      "thumb": "http://i.imgur.com/sB8CXBu.jpg",
+      "name": "Circle Pay",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.evernote",
+      "thumb": "http://i.imgur.com/PUsdfat.jpg",
+      "name": "Evernote",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.groupme.android&hl=en",
+      "thumb": "http://i.imgur.com/cK83XPV.png",
+      "name": "Group Me",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.indiegogo.android&hl=en",
+      "thumb": "http://i.imgur.com/24D81XS.png",
+      "name": "Indiegogo",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=me.lyft.android&hl=en",
+      "thumb": "http://i.imgur.com/vqKhIvl.png",
+      "name": "Lyft",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.runtastic.android",
+      "thumb": "http://i.imgur.com/pR6JqLvl.png",
+      "name": "Runtastic Running & Fitness",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide",
+      "thumb": "http://i.imgur.com/CY3KUGC.png",
+      "name": "Series Guide",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.trello",
+      "thumb": "http://i.imgur.com/K5BQclq.jpg",
+      "name": "Trello",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2",
+      "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=es_419",
+      "thumb": "http://i.imgur.com/5NASIDy.png",
+      "name": "Telegram",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=thehunt.shoptap.thehunt",
+      "thumb": "http://i.imgur.com/T4JxLeS.jpg",
+      "name": "The Hunt",
+      "price": "FREE"
+    },
+    {
+      "rating": "3.8 ★",
+      "url": "https://play.google.com/store/apps/details?id=me.wiman.androidApp&hl=en",
+      "thumb": "http://i.imgur.com/BWVwVnz.png",
+      "name": "wiMAN Free WiFi",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.pluscubed.anticipate",
+      "thumb": "http://i.imgur.com/dERqNqd.png",
+      "name": "Anticipate",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.7 ★",
+      "url": "https://play.google.com/store/apps/details?id=arun.com.chromer",
+      "thumb": "http://i.imgur.com/GZ7pUXV.jpg",
+      "name": "Chromer",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=de.toastcode.screener",
+      "thumb": "http://i.imgur.com/s4g8LFl.jpg",
+      "name": "Screener",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumb": "http://i.imgur.com/0skcd0s.png",
+      "name": "Nova Launcher",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging",
+      "thumb": "http://i.imgur.com/5Wl6F79.png",
+      "name": "Messenger",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar",
+      "thumb": "http://i.imgur.com/qWs04Db.png",
+      "name": "Google Calendar",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.0",
+      "url": "https://play.google.com/store/apps/details?id=com.ready.android",
+      "thumb": "http://i.imgur.com/ZevNKNC.jpg",
+      "name": "Ready Contacts + Dialer",
+      "price": "FREE"
+    },
+
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed",
+      "thumb": "http://i.imgur.com/JVWfYMq.jpg",
+      "name": "Snapseed",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.baseapp.eyeem",
+      "thumb": "http://i.imgur.com/VIgIDv1.png",
+      "name": "EyeEm - Camera & Photo Filter",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify",
+      "thumb": "http://i.imgur.com/MUTCcSe.png",
+      "name": "Musixmatch - Lyrics & Music",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.spotify.music",
+      "thumb": "http://i.imgur.com/53gKn5I.png",
+      "name": "Spotify Music",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.2 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.plus",
+      "thumb": "http://i.imgur.com/eG2JwjI.png",
+      "name": "Google+",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.6 ★",
+      "url": "https://play.google.com/store/apps/details?id=pl.solidexplorer2",
+      "thumb": "http://i.imgur.com/1kArEKn.jpg",
+      "name": "Solid Explorer",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.3 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "thumb": "http://i.imgur.com/7XUqAIY.png",
+      "name": "Google Photos",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.5 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.sharpregion.tapet",
+      "thumb": "http://i.imgur.com/gOBermC.jpg",
+      "name": "Tapet: Infinite Wallpapers",
+      "price": "FREE"
+    },
+    {
+      "rating": "4.4 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers",
+      "thumb": "http://i.imgur.com/VMBuPap.png",
+      "name": "Backdrops - Wallpapers",
+      "price": "FREE"
+    },
+        {
+      "rating": "4.1 ★",
+      "url": "https://play.google.com/store/apps/details?id=com.musenkishi.wally",
+      "thumb": "http://i.imgur.com/9dDcy9t.png",
+      "name": "Wally",
+      "price": "FREE"
+    }
+  ]
+}
