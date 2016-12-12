@@ -166,29 +166,29 @@
       "rating": "4.3 ★",
       "url": "https://play.google.com/store/apps/details?id=com.ryan.brooks.sevenweeks.app",
       "thumb": "http://i.imgur.com/HPA0jHQl.png",
-      "name": "7 Weeks-Habit & Goal Tracker",
-      "price": "FREE"
+      "name": "7 周习惯与目标跟踪",
+      "price": "自由"
     },
     {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.rstudioz.habits",
       "thumb": "http://i.imgur.com/ldzMc3rl.png",
-      "name": "Rewire - Habit & Goal Tracker",
-      "price": "FREE"
+      "name": "改变习惯和目标跟踪器",
+      "price": "自由"
     },
     {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=de.stocard.stocard",
       "thumb": "http://i.imgur.com/fFAvu0al.png",
-      "name": "Stocard - Rewards Cards Wallet",
-      "price": "FREE"
+      "name": "stocard -奖励卡钱包",
+      "price": "自由"
     },
     {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.hybrid.intervaltimer",
       "thumb": "http://i.imgur.com/Qaw0Yjil.png",
-      "name": "Interval Timer - HIIT Tabata",
-      "price": "FREE"
+      "name": "间隔定时器- HIIT Tabata",
+      "price": "自由"
     },
     {
       "rating": "4.6 ★",
@@ -671,7 +671,7 @@
       "rating": "4.3 ★",
       "url": "https://play.google.com/store/apps/details?id=de.toastcode.screener",
       "thumb": "http://i.imgur.com/s4g8LFl.jpg",
-      "name": "Screener",
+      "name": "筛",
       "price": "FREE"
     },
     {
@@ -749,28 +749,28 @@
       "rating": "4.3 ★",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
       "thumb": "http://i.imgur.com/7XUqAIY.png",
-      "name": "Google Photos",
+      "name": "谷歌照片",
       "price": "FREE"
     },
     {
       "rating": "4.5 ★",
       "url": "https://play.google.com/store/apps/details?id=com.sharpregion.tapet",
       "thumb": "http://i.imgur.com/gOBermC.jpg",
-      "name": "Tapet: Infinite Wallpapers",
+      "name": "Tapet：无限的壁纸",
       "price": "FREE"
     },
     {
       "rating": "4.4 ★",
       "url": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers",
       "thumb": "http://i.imgur.com/VMBuPap.png",
-      "name": "Backdrops - Wallpapers",
+      "name": "背景壁纸",
       "price": "FREE"
     },
         {
       "rating": "4.1 ★",
       "url": "https://play.google.com/store/apps/details?id=com.musenkishi.wally",
       "thumb": "http://i.imgur.com/9dDcy9t.png",
-      "name": "Wally",
+      "name": "沃利",
       "price": "FREE"
     }
   ]
